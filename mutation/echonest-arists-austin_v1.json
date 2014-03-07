@@ -1,0 +1,2903 @@
+{
+    "docs": [
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.68646799999999997, 
+            "genres": [
+                {
+                    "name": "post rock"
+                }
+            ], 
+            "_id": "ARP5KQF1187B9B4DD1", 
+            "name": "Explosions in the Sky", 
+            "years_active": [
+                {
+                    "start": 1999
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.66952599999999995, 
+            "genres": [
+                {
+                    "name": "jazz fusion"
+                }, 
+                {
+                    "name": "jazz christmas"
+                }, 
+                {
+                    "name": "blues-rock"
+                }
+            ], 
+            "_id": "ARNH6LU1187FB430FB", 
+            "name": "Eric Johnson", 
+            "years_active": [
+                {
+                    "start": 1968
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.66580799999999996, 
+            "genres": [
+                {
+                    "name": "indie rock"
+                }, 
+                {
+                    "name": "lo-fi"
+                }, 
+                {
+                    "name": "indie pop"
+                }, 
+                {
+                    "name": "alternative rock"
+                }, 
+                {
+                    "name": "noise pop"
+                }, 
+                {
+                    "name": "neo-psychedelic"
+                }, 
+                {
+                    "name": "garage rock"
+                }, 
+                {
+                    "name": "chamber pop"
+                }, 
+                {
+                    "name": "dance-punk"
+                }, 
+                {
+                    "name": "indie folk"
+                }, 
+                {
+                    "name": "power pop"
+                }, 
+                {
+                    "name": "stomp and holler"
+                }
+            ], 
+            "_id": "ARRX8P01187B99B26E", 
+            "name": "Spoon", 
+            "years_active": [
+                {
+                    "start": 1993
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.65406699999999995, 
+            "genres": [
+                {
+                    "name": "edm"
+                }, 
+                {
+                    "name": "electro house"
+                }, 
+                {
+                    "name": "complextro"
+                }, 
+                {
+                    "name": "house"
+                }, 
+                {
+                    "name": "progressive house"
+                }
+            ], 
+            "_id": "ARQF0FG119B866994B", 
+            "name": "Wolfgang Gartner", 
+            "years_active": [
+                {
+                    "start": 2007
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, Texas", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.651918, 
+            "genres": [
+                {
+                    "name": "outsider"
+                }, 
+                {
+                    "name": "anti-folk"
+                }, 
+                {
+                    "name": "lo-fi"
+                }, 
+                {
+                    "name": "freak folk"
+                }, 
+                {
+                    "name": "new weird america"
+                }, 
+                {
+                    "name": "indie folk"
+                }, 
+                {
+                    "name": "alternative rock"
+                }, 
+                {
+                    "name": "neo-psychedelic"
+                }, 
+                {
+                    "name": "slow core"
+                }, 
+                {
+                    "name": "stomp and holler"
+                }, 
+                {
+                    "name": "noise pop"
+                }
+            ], 
+            "_id": "AR6CLFP1187B9ACB94", 
+            "name": "Daniel Johnston", 
+            "years_active": [
+                {
+                    "start": 1978
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.62796300000000005, 
+            "genres": [
+                {
+                    "name": "indie folk"
+                }, 
+                {
+                    "name": "stomp and holler"
+                }, 
+                {
+                    "name": "lo-fi"
+                }, 
+                {
+                    "name": "chamber pop"
+                }, 
+                {
+                    "name": "slow core"
+                }, 
+                {
+                    "name": "anti-folk"
+                }, 
+                {
+                    "name": "indie pop"
+                }, 
+                {
+                    "name": "freak folk"
+                }, 
+                {
+                    "name": "indie rock"
+                }, 
+                {
+                    "name": "adult album alternative"
+                }, 
+                {
+                    "name": "folk"
+                }
+            ], 
+            "_id": "ARAZP5N1187B9B4D5D", 
+            "name": "Okkervil River", 
+            "years_active": [
+                {
+                    "start": 1998
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.62632500000000002, 
+            "genres": [
+                {
+                    "name": "psychedelic rock"
+                }, 
+                {
+                    "name": "protopunk"
+                }, 
+                {
+                    "name": "neo-psychedelic"
+                }, 
+                {
+                    "name": "british blues"
+                }
+            ], 
+            "_id": "AR0WEZP1187FB4D1A9", 
+            "name": "The 13th Floor Elevators", 
+            "years_active": [
+                {
+                    "end": 1969, 
+                    "start": 1965
+                }, 
+                {
+                    "end": 1978, 
+                    "start": 1978
+                }, 
+                {
+                    "end": 1984, 
+                    "start": 1984
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.62397899999999995, 
+            "genres": [
+                {
+                    "name": "post-hardcore"
+                }, 
+                {
+                    "name": "math rock"
+                }, 
+                {
+                    "name": "noise rock"
+                }, 
+                {
+                    "name": "experimental rock"
+                }, 
+                {
+                    "name": "grunge"
+                }
+            ], 
+            "_id": "ARCDZ0K1187FB43757", 
+            "name": "The Jesus Lizard", 
+            "years_active": [
+                {
+                    "end": 1999, 
+                    "start": 1987
+                }, 
+                {
+                    "end": 2010, 
+                    "start": 2008
+                }, 
+                {
+                    "start": 2013
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.61715699999999996, 
+            "genres": [
+                {
+                    "name": "neo-psychedelic"
+                }, 
+                {
+                    "name": "space rock"
+                }, 
+                {
+                    "name": "garage rock"
+                }
+            ], 
+            "_id": "ARI2H3R1187FB3AC85", 
+            "name": "The Black Angels", 
+            "years_active": [
+                {
+                    "start": 2004
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.60204299999999999, 
+            "genres": [
+                {
+                    "name": "slow core"
+                }, 
+                {
+                    "name": "freak folk"
+                }, 
+                {
+                    "name": "new weird america"
+                }, 
+                {
+                    "name": "anti-folk"
+                }, 
+                {
+                    "name": "indie folk"
+                }, 
+                {
+                    "name": "stomp and holler"
+                }, 
+                {
+                    "name": "folk"
+                }, 
+                {
+                    "name": "chamber pop"
+                }, 
+                {
+                    "name": "singer-songwriter"
+                }, 
+                {
+                    "name": "lo-fi"
+                }
+            ], 
+            "_id": "ARU6WEQ1187B9B5F06", 
+            "name": "Bill Callahan", 
+            "years_active": [
+                {
+                    "start": 2007
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.57618800000000003, 
+            "genres": [
+                {
+                    "name": "fourth world"
+                }, 
+                {
+                    "name": "drone"
+                }, 
+                {
+                    "name": "ambient"
+                }, 
+                {
+                    "name": "post rock"
+                }
+            ], 
+            "_id": "ARW5RHX1187B9A86C8", 
+            "name": "Stars of the Lid", 
+            "years_active": [
+                {
+                    "start": 1993
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.57473399999999997, 
+            "genres": [
+                {
+                    "name": "traditional folk"
+                }, 
+                {
+                    "name": "folk"
+                }, 
+                {
+                    "name": "outlaw country"
+                }, 
+                {
+                    "name": "texas country"
+                }, 
+                {
+                    "name": "alternative country"
+                }
+            ], 
+            "_id": "AR54HMH1187FB4958C", 
+            "name": "Nanci Griffith", 
+            "years_active": [
+                {
+                    "start": 1978
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.57072100000000003, 
+            "genres": [
+                {
+                    "name": "stomp and holler"
+                }, 
+                {
+                    "name": "indie folk"
+                }, 
+                {
+                    "name": "slow core"
+                }, 
+                {
+                    "name": "chamber pop"
+                }, 
+                {
+                    "name": "freak folk"
+                }, 
+                {
+                    "name": "new weird america"
+                }, 
+                {
+                    "name": "lo-fi"
+                }, 
+                {
+                    "name": "folk"
+                }, 
+                {
+                    "name": "indie pop"
+                }, 
+                {
+                    "name": "folk-pop"
+                }
+            ], 
+            "_id": "ARM6D9O1187B9ABC29", 
+            "name": "Shearwater", 
+            "years_active": [
+                {
+                    "start": 2001
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.56918400000000002, 
+            "genres": [
+                {
+                    "name": "stoner metal"
+                }, 
+                {
+                    "name": "stoner rock"
+                }, 
+                {
+                    "name": "doom metal"
+                }, 
+                {
+                    "name": "sludge metal"
+                }, 
+                {
+                    "name": "post-metal"
+                }, 
+                {
+                    "name": "groove metal"
+                }, 
+                {
+                    "name": "space rock"
+                }
+            ], 
+            "_id": "ARYEEVC1187B9A68E5", 
+            "name": "The Sword", 
+            "years_active": [
+                {
+                    "start": 2003
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Chicago", 
+                "country": "United States", 
+                "location": "Austin, Chicago, IL, US", 
+                "region": "Illinois"
+            }, 
+            "familiarity": 0.56181099999999995, 
+            "genres": [
+                {
+                    "name": "futurepop"
+                }
+            ], 
+            "_id": "ARQBRGL1187FB39D53", 
+            "name": "Iris", 
+            "years_active": [
+                {
+                    "start": 1993
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.56144300000000003, 
+            "genres": [
+                {
+                    "name": "texas blues"
+                }, 
+                {
+                    "name": "modern blues"
+                }, 
+                {
+                    "name": "electric blues"
+                }, 
+                {
+                    "name": "swamp blues"
+                }, 
+                {
+                    "name": "blues-rock"
+                }, 
+                {
+                    "name": "louisiana blues"
+                }, 
+                {
+                    "name": "blues"
+                }, 
+                {
+                    "name": "country blues"
+                }, 
+                {
+                    "name": "chicago blues"
+                }, 
+                {
+                    "name": "british blues"
+                }, 
+                {
+                    "name": "traditional blues"
+                }, 
+                {
+                    "name": "soul blues"
+                }, 
+                {
+                    "name": "memphis blues"
+                }
+            ], 
+            "_id": "ARCLLH11187FB48DE0", 
+            "name": "Jimmie Vaughan", 
+            "years_active": [
+                {
+                    "start": 1964
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.55831600000000003, 
+            "genres": [
+                {
+                    "name": "post-grunge"
+                }, 
+                {
+                    "name": "power pop"
+                }, 
+                {
+                    "name": "pop rock"
+                }, 
+                {
+                    "name": "grunge"
+                }, 
+                {
+                    "name": "alternative rock"
+                }, 
+                {
+                    "name": "hot adult contemporary"
+                }
+            ], 
+            "_id": "AR1RNCJ1187FB3D227", 
+            "name": "Fastball", 
+            "years_active": [
+                {
+                    "start": 1993
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.55827199999999999, 
+            "genres": [
+                {
+                    "name": "uplifting trance"
+                }, 
+                {
+                    "name": "trance"
+                }, 
+                {
+                    "name": "progressive trance"
+                }, 
+                {
+                    "name": "progressive house"
+                }
+            ], 
+            "_id": "AR9S5JR11C8A416119", 
+            "name": "Tritonal", 
+            "years_active": [
+                {
+                    "start": 2007
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.55378000000000005, 
+            "genres": [
+                {
+                    "name": "texas country"
+                }, 
+                {
+                    "name": "acoustic pop"
+                }, 
+                {
+                    "name": "folk christmas"
+                }, 
+                {
+                    "name": "adult album alternative"
+                }, 
+                {
+                    "name": "outlaw country"
+                }, 
+                {
+                    "name": "roots rock"
+                }, 
+                {
+                    "name": "alternative country"
+                }, 
+                {
+                    "name": "country christmas"
+                }
+            ], 
+            "_id": "ARNWP521187FB403E9", 
+            "name": "Bob Schneider", 
+            "years_active": [
+                {
+                    "start": 1990
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.54328600000000005, 
+            "genres": [
+                {
+                    "name": "indie shoegaze"
+                }, 
+                {
+                    "name": "shoegaze"
+                }, 
+                {
+                    "name": "dream pop"
+                }
+            ], 
+            "_id": "ARTIPMT1187B98CD4A", 
+            "name": "Should", 
+            "years_active": [
+                {
+                    "start": 1990
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.53908, 
+            "genres": [
+                {
+                    "name": "noise pop"
+                }, 
+                {
+                    "name": "garage rock"
+                }, 
+                {
+                    "name": "neo-psychedelic"
+                }, 
+                {
+                    "name": "nu gaze"
+                }, 
+                {
+                    "name": "lo-fi"
+                }
+            ], 
+            "_id": "AR975GG1187FB45893", 
+            "name": "White Denim", 
+            "years_active": [
+                {
+                    "start": 2006
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.53490800000000005, 
+            "genres": [
+                {
+                    "name": "cowpunk"
+                }, 
+                {
+                    "name": "alternative country"
+                }, 
+                {
+                    "name": "outlaw country"
+                }, 
+                {
+                    "name": "texas country"
+                }, 
+                {
+                    "name": "roots rock"
+                }, 
+                {
+                    "name": "country rock"
+                }
+            ], 
+            "_id": "ARE4SXN1187FB38701", 
+            "name": "The Gourds", 
+            "years_active": [
+                {
+                    "end": 2013, 
+                    "start": 1994
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.53229400000000004, 
+            "genres": [
+                {
+                    "name": "alternative rock"
+                }, 
+                {
+                    "name": "space rock"
+                }, 
+                {
+                    "name": "lo-fi"
+                }, 
+                {
+                    "name": "post-hardcore"
+                }, 
+                {
+                    "name": "noise pop"
+                }, 
+                {
+                    "name": "noise rock"
+                }, 
+                {
+                    "name": "indie rock"
+                }, 
+                {
+                    "name": "neo-psychedelic"
+                }, 
+                {
+                    "name": "math rock"
+                }, 
+                {
+                    "name": "post rock"
+                }, 
+                {
+                    "name": "experimental rock"
+                }, 
+                {
+                    "name": "dance-punk"
+                }, 
+                {
+                    "name": "garage rock"
+                }
+            ], 
+            "_id": "ARKT6J61187FB4D324", 
+            "name": "...And You Will Know Us by the Trail of Dead", 
+            "years_active": [
+                {
+                    "start": 1994
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.53059900000000004, 
+            "genres": [], 
+            "_id": "AREXBV71187B9A0E36", 
+            "name": "Gary Clark, Jr.", 
+            "years_active": [
+                {
+                    "start": 1996
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.53059500000000004, 
+            "genres": [
+                {
+                    "name": "jazz fusion"
+                }
+            ], 
+            "_id": "ARPFVWI1187B98C90A", 
+            "name": "Terry Bozzio", 
+            "years_active": [
+                {
+                    "start": 1972
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.52759299999999998, 
+            "genres": [
+                {
+                    "name": "slow core"
+                }, 
+                {
+                    "name": "indie christmas"
+                }, 
+                {
+                    "name": "lo-fi"
+                }, 
+                {
+                    "name": "post rock"
+                }, 
+                {
+                    "name": "indie pop"
+                }, 
+                {
+                    "name": "space rock"
+                }, 
+                {
+                    "name": "neo-psychedelic"
+                }, 
+                {
+                    "name": "folk christmas"
+                }, 
+                {
+                    "name": "indie rock"
+                }, 
+                {
+                    "name": "dream pop"
+                }, 
+                {
+                    "name": "noise pop"
+                }, 
+                {
+                    "name": "chamber pop"
+                }, 
+                {
+                    "name": "nu gaze"
+                }, 
+                {
+                    "name": "indie folk"
+                }
+            ], 
+            "_id": "ARZ5CQT1187FB4CF24", 
+            "name": "The American Analog Set", 
+            "years_active": [
+                {
+                    "start": 1995
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.52688599999999997, 
+            "genres": [
+                {
+                    "name": "delta blues"
+                }, 
+                {
+                    "name": "acoustic blues"
+                }, 
+                {
+                    "name": "piedmont blues"
+                }, 
+                {
+                    "name": "traditional blues"
+                }, 
+                {
+                    "name": "memphis blues"
+                }
+            ], 
+            "_id": "ART9NV11187FB4779F", 
+            "name": "Alan Lomax", 
+            "years_active": [
+                {
+                    "end": 2010, 
+                    "start": 1930
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.52640600000000004, 
+            "genres": [
+                {
+                    "name": "nintendocore"
+                }, 
+                {
+                    "name": "post rock"
+                }, 
+                {
+                    "name": "indietronica"
+                }
+            ], 
+            "_id": "AR5JDDD1187FB460C4", 
+            "name": "The Octopus Project", 
+            "years_active": [
+                {
+                    "start": 1999
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.52624499999999996, 
+            "genres": [], 
+            "_id": "ARPAXAX1241B9C5268", 
+            "name": "Young", 
+            "years_active": [
+                {
+                    "end": 2010, 
+                    "start": 2000
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.52476800000000001, 
+            "genres": [
+                {
+                    "name": "hardcore punk"
+                }, 
+                {
+                    "name": "crossover thrash"
+                }, 
+                {
+                    "name": "thrash core"
+                }, 
+                {
+                    "name": "skate punk"
+                }, 
+                {
+                    "name": "punk"
+                }, 
+                {
+                    "name": "straight edge"
+                }
+            ], 
+            "_id": "ARGC1161187FB4D010", 
+            "name": "MDC", 
+            "years_active": [
+                {
+                    "end": 1995, 
+                    "start": 1982
+                }, 
+                {
+                    "start": 2000
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.52462799999999998, 
+            "genres": [
+                {
+                    "name": "stride"
+                }, 
+                {
+                    "name": "swing"
+                }, 
+                {
+                    "name": "big band"
+                }, 
+                {
+                    "name": "new orleans jazz"
+                }, 
+                {
+                    "name": "ragtime"
+                }
+            ], 
+            "_id": "ARUAIZI1187FB4C5D8", 
+            "name": "Teddy Wilson", 
+            "years_active": [
+                {
+                    "end": 1990, 
+                    "start": 1920
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.52257799999999999, 
+            "genres": [
+                {
+                    "name": "austindie"
+                }
+            ], 
+            "_id": "ARBZK5V1187B98FD29", 
+            "name": "Pong", 
+            "years_active": []
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.52049599999999996, 
+            "genres": [
+                {
+                    "name": "western swing"
+                }, 
+                {
+                    "name": "outlaw country"
+                }, 
+                {
+                    "name": "cowpunk"
+                }, 
+                {
+                    "name": "traditional country"
+                }, 
+                {
+                    "name": "texas country"
+                }, 
+                {
+                    "name": "nashville sound"
+                }, 
+                {
+                    "name": "country gospel"
+                }
+            ], 
+            "_id": "ARF4VD11187FB3E60D", 
+            "name": "Wayne Hancock", 
+            "years_active": [
+                {
+                    "start": 1977
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.51855799999999996, 
+            "genres": [
+                {
+                    "name": "alternative dance"
+                }, 
+                {
+                    "name": "new rave"
+                }, 
+                {
+                    "name": "dance-punk"
+                }, 
+                {
+                    "name": "indietronica"
+                }, 
+                {
+                    "name": "synthpop"
+                }, 
+                {
+                    "name": "electroclash"
+                }
+            ], 
+            "_id": "ARAFIWJ1187FB38D33", 
+            "name": "Ghostland Observatory", 
+            "years_active": [
+                {
+                    "end": 2014, 
+                    "start": 2004
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.51646800000000004, 
+            "genres": [
+                {
+                    "name": "outlaw country"
+                }, 
+                {
+                    "name": "texas country"
+                }, 
+                {
+                    "name": "alternative country"
+                }, 
+                {
+                    "name": "folk"
+                }, 
+                {
+                    "name": "cowpunk"
+                }
+            ], 
+            "_id": "ARRS1FT1187B9B650A", 
+            "name": "Slaid Cleaves", 
+            "years_active": [
+                {
+                    "start": 1990
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, MN, US", 
+                "region": "Minnesota"
+            }, 
+            "familiarity": 0.51462799999999997, 
+            "genres": [
+                {
+                    "name": "grave wave"
+                }, 
+                {
+                    "name": "chillwave"
+                }, 
+                {
+                    "name": "r-neg-b"
+                }, 
+                {
+                    "name": "nu gaze"
+                }, 
+                {
+                    "name": "noise pop"
+                }, 
+                {
+                    "name": "freak folk"
+                }, 
+                {
+                    "name": "noise rock"
+                }
+            ], 
+            "_id": "AR6E63R1187FB44687", 
+            "name": "John Maus", 
+            "years_active": [
+                {
+                    "start": 1999
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.51288199999999995, 
+            "genres": [
+                {
+                    "name": "cowpunk"
+                }, 
+                {
+                    "name": "gothic americana"
+                }, 
+                {
+                    "name": "outlaw country"
+                }, 
+                {
+                    "name": "texas country"
+                }
+            ], 
+            "_id": "ARZ8SNF1187FB39BBE", 
+            "name": "Scott H. Biram", 
+            "years_active": [
+                {
+                    "start": 1990
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.51126700000000003, 
+            "genres": [
+                {
+                    "name": "post-hardcore"
+                }, 
+                {
+                    "name": "math rock"
+                }, 
+                {
+                    "name": "noise rock"
+                }, 
+                {
+                    "name": "experimental rock"
+                }, 
+                {
+                    "name": "noise punk"
+                }, 
+                {
+                    "name": "post-punk"
+                }
+            ], 
+            "_id": "AROIFUT1187FB3A5E9", 
+            "name": "Scratch Acid", 
+            "years_active": [
+                {
+                    "end": 1987, 
+                    "start": 1982
+                }, 
+                {
+                    "end": 2006, 
+                    "start": 2006
+                }, 
+                {
+                    "end": 2012, 
+                    "start": 2012
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.50925500000000001, 
+            "genres": [
+                {
+                    "name": "jazz metal"
+                }, 
+                {
+                    "name": "thrash metal"
+                }, 
+                {
+                    "name": "speed metal"
+                }, 
+                {
+                    "name": "metal"
+                }
+            ], 
+            "_id": "ARMV82R1187B9A618A", 
+            "name": "Watchtower", 
+            "years_active": [
+                {
+                    "end": 1991, 
+                    "start": 1982
+                }, 
+                {
+                    "start": 1999
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.50175400000000003, 
+            "genres": [
+                {
+                    "name": "indie pop"
+                }, 
+                {
+                    "name": "stomp pop"
+                }, 
+                {
+                    "name": "stomp and holler"
+                }, 
+                {
+                    "name": "indie rock"
+                }, 
+                {
+                    "name": "lo-fi"
+                }, 
+                {
+                    "name": "chamber pop"
+                }
+            ], 
+            "_id": "ARRFHHE1187B98FE75", 
+            "name": "Voxtrot", 
+            "years_active": [
+                {
+                    "end": 2010, 
+                    "start": 2003
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.50058800000000003, 
+            "genres": [
+                {
+                    "name": "swamp blues"
+                }, 
+                {
+                    "name": "boogie-woogie"
+                }, 
+                {
+                    "name": "new orleans blues"
+                }, 
+                {
+                    "name": "louisiana blues"
+                }, 
+                {
+                    "name": "piano blues"
+                }, 
+                {
+                    "name": "country blues"
+                }, 
+                {
+                    "name": "memphis blues"
+                }, 
+                {
+                    "name": "acoustic blues"
+                }, 
+                {
+                    "name": "texas blues"
+                }
+            ], 
+            "_id": "AR7CSOG1187FB4160E", 
+            "name": "Marcia Ball", 
+            "years_active": [
+                {
+                    "start": 1970
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.50038899999999997, 
+            "genres": [
+                {
+                    "name": "progressive bluegrass"
+                }, 
+                {
+                    "name": "indie singer-songwriter"
+                }, 
+                {
+                    "name": "discovery"
+                }, 
+                {
+                    "name": "bluegrass"
+                }
+            ], 
+            "_id": "ARCGCAD122989007E7", 
+            "name": "Sarah Jarosz", 
+            "years_active": [
+                {
+                    "start": 2009
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.49840800000000002, 
+            "genres": [
+                {
+                    "name": "austindie"
+                }, 
+                {
+                    "name": "sxsw"
+                }
+            ], 
+            "_id": "ARJKB0R1187FB43381", 
+            "name": "Ume", 
+            "years_active": [
+                {
+                    "start": 2002
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.49520799999999998, 
+            "genres": [
+                {
+                    "name": "roots rock"
+                }, 
+                {
+                    "name": "electric blues"
+                }, 
+                {
+                    "name": "modern blues"
+                }, 
+                {
+                    "name": "mellow gold"
+                }
+            ], 
+            "_id": "ARHQ0VB1187FB3732B", 
+            "name": "Charlie Sexton", 
+            "years_active": [
+                {
+                    "start": 1983
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.49396299999999999, 
+            "genres": [
+                {
+                    "name": "traditional folk"
+                }, 
+                {
+                    "name": "lilith"
+                }
+            ], 
+            "_id": "ARVKUY51187FB4647A", 
+            "name": "Eliza Gilkyson", 
+            "years_active": [
+                {
+                    "start": 1979
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.492338, 
+            "genres": [
+                {
+                    "name": "post rock"
+                }
+            ], 
+            "_id": "ARTSD281187FB4DD0C", 
+            "name": "Balmorhea", 
+            "years_active": [
+                {
+                    "start": 2006
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.49071500000000001, 
+            "genres": [
+                {
+                    "name": "christian music"
+                }, 
+                {
+                    "name": "ccm"
+                }, 
+                {
+                    "name": "christian alternative rock"
+                }, 
+                {
+                    "name": "worship"
+                }, 
+                {
+                    "name": "christian rock"
+                }
+            ], 
+            "_id": "ARWU9351187B990348", 
+            "name": "Salvador", 
+            "years_active": [
+                {
+                    "start": 1999
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.48641800000000002, 
+            "genres": [
+                {
+                    "name": "glam metal"
+                }, 
+                {
+                    "name": "sleaze rock"
+                }, 
+                {
+                    "name": "glam rock"
+                }, 
+                {
+                    "name": "hard rock"
+                }
+            ], 
+            "_id": "ARI3P8A1187B9B4AE3", 
+            "name": "Dangerous Toys", 
+            "years_active": [
+                {
+                    "end": 2010, 
+                    "start": 1987
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.48568699999999998, 
+            "genres": [
+                {
+                    "name": "retro metal"
+                }
+            ], 
+            "_id": "AR28XCF1187B98ABB7", 
+            "name": "Honky", 
+            "years_active": [
+                {
+                    "start": 1996
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.48356199999999999, 
+            "genres": [
+                {
+                    "name": "modern blues"
+                }, 
+                {
+                    "name": "texas blues"
+                }, 
+                {
+                    "name": "sxsw"
+                }
+            ], 
+            "_id": "ARX4AZ81187FB36649", 
+            "name": "Carolyn Wonderland", 
+            "years_active": [
+                {
+                    "start": 1990
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.48244100000000001, 
+            "genres": [
+                {
+                    "name": "protopunk"
+                }, 
+                {
+                    "name": "psychedelic rock"
+                }, 
+                {
+                    "name": "outsider"
+                }, 
+                {
+                    "name": "neo-psychedelic"
+                }, 
+                {
+                    "name": "garage rock"
+                }
+            ], 
+            "_id": "ARDQKMM1187FB3F4F0", 
+            "name": "Roky Erickson", 
+            "years_active": [
+                {
+                    "start": 1964
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.48088799999999998, 
+            "genres": [
+                {
+                    "name": "more indie pop"
+                }, 
+                {
+                    "name": "austindie"
+                }, 
+                {
+                    "name": "sxsw"
+                }
+            ], 
+            "_id": "ARKCISK1187B99DCA2", 
+            "name": "Brazos", 
+            "years_active": [
+                {
+                    "start": 2009
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin,Texas,United States", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.47784700000000002, 
+            "genres": [], 
+            "_id": "ARGSL4B119B8667955", 
+            "name": "25", 
+            "years_active": []
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.47762199999999999, 
+            "genres": [
+                {
+                    "name": "outlaw country"
+                }, 
+                {
+                    "name": "texas country"
+                }, 
+                {
+                    "name": "traditional country"
+                }, 
+                {
+                    "name": "country rock"
+                }, 
+                {
+                    "name": "western swing"
+                }
+            ], 
+            "_id": "AREO9WF1187B99AB81", 
+            "name": "Kinky Friedman", 
+            "years_active": [
+                {
+                    "start": 1971
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.47590300000000002, 
+            "genres": [
+                {
+                    "name": "sxsw"
+                }, 
+                {
+                    "name": "austindie"
+                }
+            ], 
+            "_id": "ARGWBTQ11EBCD76B81", 
+            "name": "Quiet Company", 
+            "years_active": [
+                {
+                    "start": 2000
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.47508600000000001, 
+            "genres": [
+                {
+                    "name": "italian progressive rock"
+                }
+            ], 
+            "_id": "ARNUFC31187B99F9C7", 
+            "name": "Delirium", 
+            "years_active": [
+                {
+                    "start": 1987
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.47486699999999998, 
+            "genres": [
+                {
+                    "name": "texas country"
+                }, 
+                {
+                    "name": "outlaw country"
+                }, 
+                {
+                    "name": "alternative country"
+                }
+            ], 
+            "_id": "AR5M4GN1187FB3F2F6", 
+            "name": "Bruce Robison", 
+            "years_active": [
+                {
+                    "end": 2010, 
+                    "start": 1990
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.47442800000000002, 
+            "genres": [
+                {
+                    "name": "latin jazz"
+                }, 
+                {
+                    "name": "cuban rumba"
+                }, 
+                {
+                    "name": "mambo"
+                }, 
+                {
+                    "name": "salsa"
+                }
+            ], 
+            "_id": "ARJPBFK1187B9B0A70", 
+            "name": "Irakere", 
+            "years_active": [
+                {
+                    "end": 2010, 
+                    "start": 1970
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.47424699999999997, 
+            "genres": [
+                {
+                    "name": "progressive uplifting trance"
+                }
+            ], 
+            "_id": "AROAB2C1187B9914A3", 
+            "name": "Running Man", 
+            "years_active": [
+                {
+                    "end": 1980, 
+                    "start": 1970
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Crockett", 
+                "country": "United States", 
+                "location": "Austin, Texas", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.470327, 
+            "genres": [], 
+            "_id": "ARQHTYX12F12996703", 
+            "name": "...And You Will Know Us By The Trail Of The Dead", 
+            "years_active": [
+                {
+                    "start": 1994
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX ", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.46879199999999999, 
+            "genres": [
+                {
+                    "name": "vaporwave"
+                }
+            ], 
+            "_id": "ARJRZYY12E2A671BB2", 
+            "name": "RUN DMT", 
+            "years_active": [
+                {
+                    "start": 2010
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "New York"
+            }, 
+            "familiarity": 0.46851300000000001, 
+            "genres": [], 
+            "_id": "AR3B9GN1187FB57342", 
+            "name": "Cliff", 
+            "years_active": []
+        }, 
+        {
+            "artist_location": {
+                "city": "Crockett", 
+                "country": "United States", 
+                "location": "Austin Texas", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.46848299999999998, 
+            "genres": [
+                {
+                    "name": "sxsw"
+                }
+            ], 
+            "_id": "ARYMSOV11FF10D8581", 
+            "name": "Scorpion Child", 
+            "years_active": [
+                {
+                    "start": 2006
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.46551900000000002, 
+            "genres": [
+                {
+                    "name": "soft rock"
+                }
+            ], 
+            "_id": "ARITORG1187FB3ADA3", 
+            "name": "England Dan & John Ford Coley", 
+            "years_active": [
+                {
+                    "end": 1980, 
+                    "start": 1970
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.46339999999999998, 
+            "genres": [
+                {
+                    "name": "slam death metal"
+                }
+            ], 
+            "_id": "ARZLHOO122BCFC99C8", 
+            "name": "Blunt Force Trauma", 
+            "years_active": []
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.46307300000000001, 
+            "genres": [], 
+            "_id": "ARMJJBV1241B9C5DD8", 
+            "name": "Bangalore", 
+            "years_active": [
+                {
+                    "end": 2010, 
+                    "start": 1990
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.46284199999999998, 
+            "genres": [
+                {
+                    "name": "folk"
+                }, 
+                {
+                    "name": "piedmont blues"
+                }, 
+                {
+                    "name": "traditional folk"
+                }, 
+                {
+                    "name": "country blues"
+                }
+            ], 
+            "_id": "AR01S3D1187FB50A53", 
+            "name": "Charlie Parr", 
+            "years_active": [
+                {
+                    "start": 2002
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.46148699999999998, 
+            "genres": [
+                {
+                    "name": "uplifting trance"
+                }, 
+                {
+                    "name": "progressive trance"
+                }, 
+                {
+                    "name": "trance"
+                }
+            ], 
+            "_id": "ARJ9JX61187FB416B5", 
+            "name": "Duderstadt", 
+            "years_active": []
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.46032099999999998, 
+            "genres": [
+                {
+                    "name": "aggrotech"
+                }
+            ], 
+            "_id": "ARVH7QO1187B9A3D4D", 
+            "name": "Reaper", 
+            "years_active": [
+                {
+                    "start": 2005
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.45918100000000001, 
+            "genres": [
+                {
+                    "name": "nu gaze"
+                }, 
+                {
+                    "name": "shoegaze"
+                }, 
+                {
+                    "name": "dream pop"
+                }, 
+                {
+                    "name": "indie shoegaze"
+                }, 
+                {
+                    "name": "noise pop"
+                }
+            ], 
+            "_id": "ARRASUK11E8F5C14FC", 
+            "name": "Ringo Deathstarr", 
+            "years_active": [
+                {
+                    "start": 2005
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.45810099999999998, 
+            "genres": [
+                {
+                    "name": "garage pop"
+                }, 
+                {
+                    "name": "punk blues"
+                }, 
+                {
+                    "name": "garage rock"
+                }, 
+                {
+                    "name": "noise pop"
+                }
+            ], 
+            "_id": "ARUVLIV11EBCD791FD", 
+            "name": "The Strange Boys", 
+            "years_active": [
+                {
+                    "start": 2001
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.45807999999999999, 
+            "genres": [
+                {
+                    "name": "austindie"
+                }
+            ], 
+            "_id": "ARKTJTZ11EBCD785F6", 
+            "name": "Black Joe Lewis", 
+            "years_active": [
+                {
+                    "start": 2007
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.45673000000000002, 
+            "genres": [
+                {
+                    "name": "progressive bluegrass"
+                }, 
+                {
+                    "name": "bluegrass"
+                }
+            ], 
+            "_id": "ARMWCWM1187B9A8587", 
+            "name": "The Greencards", 
+            "years_active": [
+                {
+                    "start": 2003
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.45631300000000002, 
+            "genres": [
+                {
+                    "name": "more progressive trance"
+                }
+            ], 
+            "_id": "AROEA931187FB55465", 
+            "name": "Cass", 
+            "years_active": [
+                {
+                    "end": 2000, 
+                    "start": 1990
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.45629399999999998, 
+            "genres": [
+                {
+                    "name": "texas country"
+                }, 
+                {
+                    "name": "outlaw country"
+                }
+            ], 
+            "_id": "ARZSRYG11F4C8474A1", 
+            "name": "Kyle Park", 
+            "years_active": [
+                {
+                    "start": 2005
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.45560600000000001, 
+            "genres": [], 
+            "_id": "ARJHCAY122BCFCD139", 
+            "name": "Exeter", 
+            "years_active": []
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.45401399999999997, 
+            "genres": [], 
+            "_id": "ARAGTGF12AF7D8FA57", 
+            "name": "Flashdance", 
+            "years_active": []
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.45338400000000001, 
+            "genres": [
+                {
+                    "name": "alternative country"
+                }
+            ], 
+            "_id": "ARWPKS11187FB3EE0D", 
+            "name": "Carrie Rodriguez", 
+            "years_active": [
+                {
+                    "start": 2002
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.45166000000000001, 
+            "genres": [
+                {
+                    "name": "meditation"
+                }, 
+                {
+                    "name": "alternative new age"
+                }, 
+                {
+                    "name": "ambient"
+                }, 
+                {
+                    "name": "deep ambient"
+                }
+            ], 
+            "_id": "AR4LAGK1187B98F6B8", 
+            "name": "Maneki Neko", 
+            "years_active": []
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.448772, 
+            "genres": [
+                {
+                    "name": "acoustic pop"
+                }, 
+                {
+                    "name": "sxsw"
+                }
+            ], 
+            "_id": "ARMWNAS11E8A2E2897", 
+            "name": "Alpha Rev", 
+            "years_active": [
+                {
+                    "start": 2005
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.44861400000000001, 
+            "genres": [
+                {
+                    "name": "austindie"
+                }, 
+                {
+                    "name": "nu-cumbia"
+                }
+            ], 
+            "_id": "ARW5QW11187B98C621", 
+            "name": "Grupo Fantasma", 
+            "years_active": [
+                {
+                    "start": 2000
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.44712200000000002, 
+            "genres": [
+                {
+                    "name": "nu gaze"
+                }, 
+                {
+                    "name": "chillwave"
+                }, 
+                {
+                    "name": "indietronica"
+                }, 
+                {
+                    "name": "dream pop"
+                }, 
+                {
+                    "name": "shoegaze"
+                }
+            ], 
+            "_id": "ARPIOFJ1187B98B14E", 
+            "name": "Letting Up Despite Great Faults", 
+            "years_active": [
+                {
+                    "start": 2006
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.44591900000000001, 
+            "genres": [
+                {
+                    "name": "power blues-rock"
+                }, 
+                {
+                    "name": "modern blues"
+                }
+            ], 
+            "_id": "ARND48J1187B990A0B", 
+            "name": "Storyville", 
+            "years_active": [
+                {
+                    "end": 2000, 
+                    "start": 1994
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.44584200000000002, 
+            "genres": [
+                {
+                    "name": "deep funk"
+                }, 
+                {
+                    "name": "afrobeat"
+                }
+            ], 
+            "_id": "ARR1R7C1187FB4884F", 
+            "name": "Brownout", 
+            "years_active": [
+                {
+                    "end": 2010, 
+                    "start": 2000
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.44580799999999998, 
+            "genres": [
+                {
+                    "name": "texas country"
+                }, 
+                {
+                    "name": "outlaw country"
+                }, 
+                {
+                    "name": "country christmas"
+                }
+            ], 
+            "_id": "ARUK0PQ1187FB44FD7", 
+            "name": "The Band of Heathens", 
+            "years_active": [
+                {
+                    "start": 2005
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.44569599999999998, 
+            "genres": [
+                {
+                    "name": "modern blues"
+                }
+            ], 
+            "_id": "ARLSDA51187B992C73", 
+            "name": "Monte Montgomery", 
+            "years_active": [
+                {
+                    "end": 2010, 
+                    "start": 1990
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.44422899999999998, 
+            "genres": [], 
+            "_id": "ARXFHNX12BAB079D29", 
+            "name": "Battleme", 
+            "years_active": [
+                {
+                    "start": 2009
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.44392700000000002, 
+            "genres": [
+                {
+                    "name": "indie rock"
+                }, 
+                {
+                    "name": "dance-punk"
+                }
+            ], 
+            "_id": "ARWG6FM1187B9892B8", 
+            "name": "I Love You but I've Chosen Darkness", 
+            "years_active": [
+                {
+                    "start": 2003
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.44368099999999999, 
+            "genres": [
+                {
+                    "name": "sxsw"
+                }
+            ], 
+            "_id": "ARDXXHI12AF7DB3775", 
+            "name": "Max Frost", 
+            "years_active": []
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.442158, 
+            "genres": [
+                {
+                    "name": "outlaw country"
+                }, 
+                {
+                    "name": "texas country"
+                }
+            ], 
+            "_id": "ARBYFR71187B99A2A4", 
+            "name": "Sam Baker", 
+            "years_active": [
+                {
+                    "end": 2010, 
+                    "start": 2000
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX", 
+                "region": "TX"
+            }, 
+            "familiarity": 0.44152000000000002, 
+            "genres": [], 
+            "_id": "AR1LGCG1187B998D76", 
+            "name": "Deadman", 
+            "years_active": [
+                {
+                    "start": 1999
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.441056, 
+            "genres": [
+                {
+                    "name": "atmospheric post rock"
+                }, 
+                {
+                    "name": "post rock"
+                }, 
+                {
+                    "name": "sxsw"
+                }
+            ], 
+            "_id": "AR4XGRX1187B99E188", 
+            "name": "My Education", 
+            "years_active": [
+                {
+                    "start": 2000
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.44050699999999998, 
+            "genres": [
+                {
+                    "name": "power pop"
+                }, 
+                {
+                    "name": "jangle pop"
+                }
+            ], 
+            "_id": "ARZ9V7G1187FB41054", 
+            "name": "Cotton Mather", 
+            "years_active": [
+                {
+                    "end": 2003, 
+                    "start": 1991
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.44041599999999997, 
+            "genres": [
+                {
+                    "name": "texas country"
+                }, 
+                {
+                    "name": "outlaw country"
+                }
+            ], 
+            "_id": "AR30APO1187FB383F6", 
+            "name": "Brandon Jenkins", 
+            "years_active": [
+                {
+                    "end": 2010, 
+                    "start": 1990
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.43771399999999999, 
+            "genres": [
+                {
+                    "name": "cowpunk"
+                }, 
+                {
+                    "name": "traditional swing"
+                }, 
+                {
+                    "name": "outlaw country"
+                }, 
+                {
+                    "name": "country christmas"
+                }
+            ], 
+            "_id": "ARZE4GV1187FB4D541", 
+            "name": "Asylum Street Spankers", 
+            "years_active": [
+                {
+                    "end": 2011, 
+                    "start": 1994
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.43750899999999998, 
+            "genres": [
+                {
+                    "name": "drone"
+                }, 
+                {
+                    "name": "warm drone"
+                }
+            ], 
+            "_id": "AR9Z0XZ1187B9B0D58", 
+            "name": "The Dead Texan", 
+            "years_active": [
+                {
+                    "start": 2004
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.43589, 
+            "genres": [], 
+            "_id": "ARJXDMJ11FF10D84F9", 
+            "name": "Black Joe Lewis & The Honeybears", 
+            "years_active": [
+                {
+                    "start": 2007
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.43408099999999999, 
+            "genres": [
+                {
+                    "name": "lo star"
+                }
+            ], 
+            "_id": "ARCXECQ12AF7D9A6FA", 
+            "name": "Literature", 
+            "years_active": []
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.43288399999999999, 
+            "genres": [
+                {
+                    "name": "southern rock"
+                }, 
+                {
+                    "name": "modern blues"
+                }, 
+                {
+                    "name": "blues-rock"
+                }, 
+                {
+                    "name": "texas blues"
+                }, 
+                {
+                    "name": "electric blues"
+                }
+            ], 
+            "_id": "ARWV0Q11187FB4CDCE", 
+            "name": "Arc Angels", 
+            "years_active": [
+                {
+                    "end": 1993, 
+                    "start": 1990
+                }, 
+                {
+                    "start": 2002
+                }
+            ]
+        }, 
+        {
+            "artist_location": {
+                "city": "Austin", 
+                "country": "United States", 
+                "location": "Austin, TX, US", 
+                "region": "Texas"
+            }, 
+            "familiarity": 0.43280200000000002, 
+            "genres": [
+                {
+                    "name": "street punk"
+                }, 
+                {
+                    "name": "oi"
+                }
+            ], 
+            "_id": "ARXWW7N1187B9ACFED", 
+            "name": "Born to Lose", 
+            "years_active": [
+                {
+                    "start": 2000
+                }
+            ]
+        }
+    ]
+}
